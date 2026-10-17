@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-1185-feature-personal-data-export-and-account-erasure",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-1185-feature-personal-data-export-and-account-erasure": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-1185-feature-personal-data-export-and-account-erasure",
+    "origin"
+  ]
+}
